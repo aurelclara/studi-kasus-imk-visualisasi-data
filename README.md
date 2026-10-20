@@ -4,7 +4,7 @@ Studi kasus berdasarkan kuliah umum **Human-Computer Interaction & Data Visualiz
 
 Proyek ini merancang dashboard kehadiran dan nilai mahasiswa dengan pendekatan *User-Centered Design*: mulai dari persona, membandingkan grafik sebelum dan sesudah perbaikan, membuat prototipe interaktif, lalu mengevaluasinya dengan lima prinsip desain interaksi dan standar aksesibilitas WCAG.
 
-🔗 **[Lihat laporan HTML (live)](https://USERNAME.github.io/studi-kasus-imk-visualisasi-data/)**
+🔗 **[Lihat laporan HTML (live)](https://aurelclara.github.io/studi-kasus-imk-visualisasi-data/#persona)**
 
 ## Kerangka Studi Kasus
 
